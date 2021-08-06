@@ -1,0 +1,7 @@
+{
+    "apiBaseUrl": "https://api.themoviedb.org/3",
+    "apikey": "",
+    "nowPlayingMovieUrl": "/movie/now_playing?",
+    "imageBaseUrl" : "https://image.tmdb.org/t/p/w300",
+    "movieDetailUrl": "https://api.themoviedb.org/3/movie/"
+}
